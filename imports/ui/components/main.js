@@ -1,0 +1,1 @@
+console.log('components folder is loaded.');

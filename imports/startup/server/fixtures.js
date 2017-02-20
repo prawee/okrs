@@ -1,0 +1,1 @@
+console.log('fixtures is loaded.');

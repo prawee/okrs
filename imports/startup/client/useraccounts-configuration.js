@@ -1,0 +1,1 @@
+console.log('useraccount configuration is loaded.');
