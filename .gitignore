@@ -1,3 +1,4 @@
 node_modules/
 .vscode/
 .deploy/
+run.sh
