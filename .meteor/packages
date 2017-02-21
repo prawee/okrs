@@ -26,4 +26,5 @@ mquandalle:stylus
 stylus
 kadira:flow-router
 kadira:blaze-layout
+arillo:flow-router-helpers    # Changing Routes
 #useraccounts:core
