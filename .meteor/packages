@@ -29,4 +29,6 @@ kadira:blaze-layout
 arillo:flow-router-helpers      # Changing Routes
 fortawesome:fontawesome         # Icon
 tap:i18n                        # i18n
+
+accounts-password               # Fixed => Error: AccountsTemplates: You must add at least one account service!
 useraccounts:core               # AccountsTemplate
