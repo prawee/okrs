@@ -27,6 +27,6 @@ stylus
 kadira:flow-router
 kadira:blaze-layout
 arillo:flow-router-helpers      # Changing Routes
-#useraccounts:core
 fortawesome:fontawesome         # Icon
 tap:i18n                        # i18n
+useraccounts:core               # AccountsTemplate
