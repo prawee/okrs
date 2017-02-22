@@ -33,3 +33,4 @@ tap:i18n                        # i18n
 accounts-password               # Fixed => Error: AccountsTemplates: You must add at least one account service!
 useraccounts:core               # AccountsTemplate
 useraccounts:flow-routing       # Fixed => triggersExit TypeError: trigger is not a function
+useraccounts:unstyled           # Accounts Form
