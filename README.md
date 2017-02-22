@@ -1,5 +1,6 @@
 # Project
 OKR: Objectives and Key Results. 
+Inspiration from [Wekan]
 
 # Objectives
 For description about flow of Meteor to my students.
