@@ -1,13 +1,23 @@
 {
   "name": "meteor-alertdone",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
+    "lint": "eslint .",
+    "test": "npm run --silent lint",
     "start": "meteor run"
   },
+  "devDependencies": {
+    "eslint": "^3.16.1"
+  },
   "dependencies": {
+    "assemble": "^0.3.8",
     "babel-runtime": "6.18.0",
     "bcrypt": "^1.0.2",
+    "bson": "^1.0.4",
+    "grunt": "^0.4.0",
     "meteor-node-stubs": "~0.2.0",
-    "styles": "^0.2.1"
+    "styles": "^0.2.1",
+    "xss": "^0.3.3"
   }
 }
